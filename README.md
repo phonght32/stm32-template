@@ -19,3 +19,29 @@ git submodule update --init --recuresive
 ### 3. Use STM-IDF
 
 Visit this [link](https://github.com/thanhphong98/stm-idf) to get instruction to use stm-idf.
+
+### 4. Build project
+
+```
+make build all
+```
+
+### 5. Flash to target
+
+Flash over USART:
+
+```
+make flash_usart
+```
+
+Flash over ST-LinkV2:
+
+```
+make flash_stlink
+```
+
+### 6. View log output
+
+```
+make monitor
+```
