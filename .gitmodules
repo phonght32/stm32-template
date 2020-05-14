@@ -1,0 +1,3 @@
+[submodule "stm-idf"]
+	path = stm-idf
+	url = https://github.com/thanhphong98/stm-idf.git
