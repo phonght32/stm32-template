@@ -1,11 +1,11 @@
 # stm32-template
 
-Project template for STM32 using [stm-idf.](https://github.com/thanhphong98/stm-idf)
+Project template for STM32 using [stm-idf.](https://github.com/phonght32/stm-idf)
 
 ### 1. How to install
 
 ```
-git clone https://github.com/thanhphong98/stm32-template
+git clone https://github.com/phonght32/stm32-template
 cd stm32-template
 git submodule update --init --recuresive
 ```
@@ -18,7 +18,7 @@ git submodule update --init --recuresive
 
 ### 3. Use STM-IDF
 
-Visit this [link](https://github.com/thanhphong98/stm-idf) to get instruction to use stm-idf.
+Visit this [link](https://github.com/phonght32/stm-idf) to get instruction to use stm-idf.
 
 ### 4. Build project
 
